@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.3](https://github.com/pweyck/release-schedule/compare/v1.3.2...v1.3.3) (2024-04-17)
+
+
+### Bug Fixes
+
+* revert release artifact upload ([a7a118f](https://github.com/pweyck/release-schedule/commit/a7a118f81409761141c787167ae186ad9cb04284))
+
 ## [1.3.2](https://github.com/pweyck/release-schedule/compare/v1.3.1...v1.3.2) (2024-04-17)
 
 
