@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.4.0](https://github.com/pweyck/release-schedule/compare/v1.3.2...v1.4.0) (2024-04-19)
+
+
+### Features
+
+* Test conventional commits ([3f3af3a](https://github.com/pweyck/release-schedule/commit/3f3af3a5ff4b90c8693d85806cb55cf7cd9569b2))
+
+
+### Bug Fixes
+
+* revert release artifact upload ([a7a118f](https://github.com/pweyck/release-schedule/commit/a7a118f81409761141c787167ae186ad9cb04284))
+
+
+### Miscellaneous Chores
+
+* add README ([937cc3b](https://github.com/pweyck/release-schedule/commit/937cc3b4b295eb956df3f7fb17259ca5c2e25cc6))
+* change license to MIT ([f38f7eb](https://github.com/pweyck/release-schedule/commit/f38f7eb191159866745014e1f2758f29b2147bf7))
+* **main:** release 1.0.0 ([d406420](https://github.com/pweyck/release-schedule/commit/d4064205c7fe44bbd6440e9c2cbc9db84fe884ff))
+
 ## 1.0.0 (2024-04-17)
 
 
